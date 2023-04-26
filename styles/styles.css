@@ -61,6 +61,7 @@ nav {
 .ITWorx-logo {
     margin-top: 38px;
     padding-left: 10px;
+    height: 125px;
 }
 
 .second-section {
@@ -98,4 +99,9 @@ nav {
     color: white;
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
+}
+
+.icons{
+    font-size: 21px;
+    padding-right: 7px;
 }
